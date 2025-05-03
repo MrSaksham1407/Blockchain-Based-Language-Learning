@@ -29,6 +29,9 @@ To empower learners globally by providing an immutable, transparent, and persona
 ## Contract Details
 ### Contract Address: CCZQJZSBVXWXYWQG7SQ676IEYKB65ZZ3R7HUOM3U36SD22PYBDHSAXN6
 
+![image](https://github.com/user-attachments/assets/ab3ab324-5c2c-4598-a198-3f01e50714ad)
+
+
 ### 1. `add_word(user, word, translation)`
 - Logs a vocabulary word with its translation and a timestamp.
 - Requires user authentication.
